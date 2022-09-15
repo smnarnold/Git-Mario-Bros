@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Consignes: https://smnarnold.com/exercices/git/mario-bros
 =======
+=======
+>>>>>>> parent of 436917c (Luigi)
 # Examen GIT
 
 ## Préambule
@@ -20,4 +23,7 @@ Sur la branche _Mario Bros 2_, remplacez l'image _mario.png_ par _mario-2.png_, 
 
 ## Conclusion
 Soumettez la branche _master_ de votre répertoire via un _Pull request_ au répertoire d'origine _smnarnold_.
+<<<<<<< HEAD
 >>>>>>> parent of b38093b (funny revert moment)
+=======
+>>>>>>> parent of 436917c (Luigi)
