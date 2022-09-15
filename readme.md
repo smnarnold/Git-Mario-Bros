@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Consignes: https://smnarnold.com/exercices/git/mario-bros
-=======
 # Examen GIT
 
 ## Préambule
